@@ -1,8 +1,8 @@
 # 2021-WES-Full-Panel
 This repository holds the codebook and data for all 6 waves of the 2021 Welsh Election Study. Data are in .dta format for your convenience.
 
-The Welsh Election Study (WES) 2021 was carried out Cardiff University's Wales Governance Centre. Professor Richard Wyn Jones served as Principal Investigator, with Dr Jac Larner, Paula Surridge, Dr Ed Gareth Poole, Professor Daniel Wincott, and James Griffiths serving as Co-Investigators. The 2021 WES project, including all survey data collection, is funded by the Economic and Social Research Council.
+The Welsh Election Study (WES) 2021 was carried out Cardiff University's Wales Governance Centre. Professor Richard Wyn Jones served as Principal Investigator, with Dr Jac Larner, Paula Surridge, Dr Ed Gareth Poole, and Professor Daniel Wincott serving as Co-Investigators. The 2021 WES project, including all survey data collection, is funded by the Economic and Social Research Council.
 
-Citation: Wyn Jones R., Larner J., Surridge P., Poole, E. G., Wincott D, Griffiths, J. (2022) "The Welsh Election Study, 2021".
+Citation: Wyn Jones R., Larner J., Surridge P., Poole, E. G., and Wincott D. (2022) "The Welsh Election Study, 2021".
 
 Contact: larnerJM@cardiff.ac.uk ; griffithsj43@cardiff.ac.uk
